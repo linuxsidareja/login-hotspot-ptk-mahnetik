@@ -1,2 +1,4 @@
-# MikroTik Gedhe Foundation
-Hanya desain login mikrotik hotspot untuk desa
+# Login Hotspot PTK Mahnetik
+
+Berbasis [MikroTik Gedhe Foundation](https://github.com/prianthon/mikrotikgedhe)
+
